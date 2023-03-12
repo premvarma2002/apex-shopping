@@ -1,7 +1,7 @@
 # apex-shopping
 this website is deployed at netlify . click on the link below to see
 
-https://app.netlify.com/sites/grand-blancmange-2d5ca4/
+https://grand-blancmange-2d5ca4.netlify.app
 
 In this project , we have a E-commerce web design made vy using : HTML,Bootstrap ,SASS and javaScript
 this is not not a react project so  if you want to use this code , you can simply Download the repository zip file 
